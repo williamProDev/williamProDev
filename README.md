@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @williamProDev
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning ML & DL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am senior Full Stack Develooper.
 
 <!---
 williamProDev/williamProDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
